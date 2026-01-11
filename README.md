@@ -17,8 +17,10 @@ Sou um entusiasta de tecnologia e desenvolvimento de software, atualmente focado
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rafaelmgjt&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelmgjt&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafaelmgjt&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelmgjt&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
