@@ -4,7 +4,7 @@
 Sou um entusiasta de tecnologia e desenvolvimento de software, atualmente focado em aprimorar minhas habilidades através da **Digital Innovation One (DIO)**. Acredito no poder do código para transformar ideias em realidade e estou sempre em busca de novos desafios e aprendizados.
 
 - 🎓 Estudante de Desenvolvimento de Software.
-- 🚀 Apaixonado por Open Source e colaboração.
+- 🚀 Apaixonado por Hardware e Programção.
 - 💡 Buscando dominar novas tecnologias e boas práticas de programação.
 
 ---
@@ -16,14 +16,8 @@ Sou um entusiasta de tecnologia e desenvolvimento de software, atualmente focado
 
 ---
 
-### 📊 Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rafaelmgjt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelmgjt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- [LinkedIn](https://www.linkedin.com/in/rafael-miranda-gomes/)
 - [GitHub](https://github.com/Rafaelmgjt)
 
 ---
