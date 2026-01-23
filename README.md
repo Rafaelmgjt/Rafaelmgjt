@@ -1,8 +1,7 @@
 # Olá, eu sou o Rafael! 👋
 
 ### 👨‍💻 Sobre Mim
-Entusiasta de tecnologia, Hardware e desenvolvimento de software, atualmente focado em aprimorar minhas habilidades. Acredito no poder do código para transformar ideias em realidade e estou sempre em busca de novos desafios e aprendizados.
-Proativo, detalhista e curioso, gosto de aprender tecnologias novas e sempre manter as boas práticas da programação.
+Sou entusiasta de tecnologia, hardware e desenvolvimento de software, atualmente focado em aprimoramento contínuo das minhas habilidades e na transição de carreira. Atuo como desenvolvedor profissional iniciante, acreditando no poder do código para transformar ideias em soluções reais. Estou sempre em busca de novos desafios, aprendizados e boas práticas da programação. Sou uma pessoa proativa, detalhista e curioso, com gosto de aprender novas tecnologias e comprometido em entregar soluções organizadas, eficientes e bem estruturadas.
 
 - 🎓 Estudante de Desenvolvimento de Software.
 - 🚀 Apaixonado por Hardware e Programção.
