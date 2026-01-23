@@ -1,7 +1,8 @@
 # Olá, eu sou o Rafael! 👋
 
 ### 👨‍💻 Sobre Mim
-Sou um entusiasta de tecnologia e desenvolvimento de software, atualmente focado em aprimorar minhas habilidades através da **Digital Innovation One (DIO)**. Acredito no poder do código para transformar ideias em realidade e estou sempre em busca de novos desafios e aprendizados.
+Entusiasta de tecnologia, Hardware e desenvolvimento de software, atualmente focado em aprimorar minhas habilidades. Acredito no poder do código para transformar ideias em realidade e estou sempre em busca de novos desafios e aprendizados.
+Proativo, detalhista e curioso, gosto de aprender tecnologias novas e sempre manter as boas práticas da programação.
 
 - 🎓 Estudante de Desenvolvimento de Software.
 - 🚀 Apaixonado por Hardware e Programção.
